@@ -1,5 +1,3 @@
-Below is an example of a detailed `README.md` file for your Keeling Curve project built in a Jupyter Notebook using data from the NOAA Mauna Loa Observatory:
-
 ---
 
 # Keeling Curve Analysis in Python
