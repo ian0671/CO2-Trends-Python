@@ -38,7 +38,7 @@ pip install numpy pandas matplotlib jupyter
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/keeling-curve-analysis.git
+   git clone https://github.com/ian0671/CO2-Trends-Python.git
    cd keeling-curve-analysis
    ```
 
