@@ -18,6 +18,11 @@ The Keeling Curve is one of the most iconic representations in climate scienceâ€
 All data used in this analysis is obtained from the NOAA Mauna Loa Observatory. Check out the data at:  
 [https://gml.noaa.gov/ccgg/trends/data.html](https://gml.noaa.gov/ccgg/trends/data.html)
 
+## Additional Sources
+
+[https://en.wikipedia.org/wiki/Keeling_Curve](https://en.wikipedia.org/wiki/Keeling_Curve)
+
+
 ## Prerequisites
 
 Ensure you have Python 3.7 or later and the following Python libraries installed:
