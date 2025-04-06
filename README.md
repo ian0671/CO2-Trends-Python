@@ -20,8 +20,10 @@ All data used in this analysis is obtained from the NOAA Mauna Loa Observatory. 
 
 ## Additional Sources
 
-[Keeling Curve Wiki](https://en.wikipedia.org/wiki/Keeling_Curve)
-[How CO2 is Measured](https://gml.noaa.gov/ccgg/about/co2_measurements.html)
+[Keeling Curve Wiki](https://en.wikipedia.org/wiki/Keeling_Curve) 
+
+[How CO2 is measured](https://gml.noaa.gov/ccgg/about/co2_measurements.html)
+
 [NOAA/GML calculation of global means](https://gml.noaa.gov/ccgg/about/global_means.html)
 
 
