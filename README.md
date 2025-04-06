@@ -18,6 +18,11 @@ The Keeling Curve is one of the most iconic representations in climate scienceâ€
 All data used in this analysis is obtained from the NOAA Mauna Loa Observatory. Check out the data at:  
 [https://gml.noaa.gov/ccgg/trends/data.html](https://gml.noaa.gov/ccgg/trends/data.html)
 
+## Additional Sources
+
+[https://en.wikipedia.org/wiki/Keeling_Curve](https://en.wikipedia.org/wiki/Keeling_Curve)
+
+
 ## Prerequisites
 
 Ensure you have Python 3.7 or later and the following Python libraries installed:
@@ -38,7 +43,7 @@ pip install numpy pandas matplotlib jupyter
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/keeling-curve-analysis.git
+   git clone https://github.com/ian0671/CO2-Trends-Python.git
    cd keeling-curve-analysis
    ```
 
