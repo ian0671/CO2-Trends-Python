@@ -26,6 +26,8 @@ All data used in this analysis is obtained from the NOAA Mauna Loa Observatory. 
 
 [NOAA/GML calculation of global means](https://gml.noaa.gov/ccgg/about/global_means.html)
 
+[Understanding CO2 and its relation with parts per million (ppm)](https://www.co2meter.com/blogs/news/co2-ppm)
+
 
 
 ## Prerequisites
